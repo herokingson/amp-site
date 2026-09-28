@@ -1,0 +1,23 @@
+{
+  "brand": "GCLUB168",
+  "title": "GCLUB168",
+  "description": "รายละเอียดเว็บไซต์ตามเอกสารเนื้อหาที่จะได้รับ",
+  "canonicalUrl": "",
+  "faviconUrl": "",
+  "logo": null,
+  "heroImage": null,
+  "ga4MeasurementId": "",
+  "signupUrl": "",
+  "loginUrl": "",
+  "organization": { "name": "GCLUB168", "url": "", "logoUrl": "" },
+  "intro": { "eyebrow": "ยินดีต้อนรับ", "h1": "GCLUB168", "text": "เนื้อหาแนะนำจาก Content Doc" },
+  "sections": [
+    { "h2": "หัวข้อบริการจาก Content Doc", "text": "รายละเอียดบริการจาก Content Doc", "image": null },
+    { "h2": "ข้อมูลเพิ่มเติม", "text": "ข้อความตาม Content Doc", "image": null }
+  ],
+  "faq": [
+    { "question": "คำถามที่พบบ่อยข้อที่ 1", "answer": "คำตอบจาก Content Doc" },
+    { "question": "คำถามที่พบบ่อยข้อที่ 2", "answer": "คำตอบจาก Content Doc" },
+    { "question": "คำถามที่พบบ่อยข้อที่ 3", "answer": "คำตอบจาก Content Doc" }
+  ]
+}
