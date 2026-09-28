@@ -4,8 +4,8 @@ The screenshot supplied is a visual reference. `site.config.json` currently cont
 
 ## Supply project data
 
-- Set the real HTTPS `canonicalUrl`, `faviconUrl`, signup and login URLs, and `ga4MeasurementId` (`G-...`).
-- Supply `logo`, `heroImage`, and optional section images as `{ "url": "https://...", "width": 1200, "height": 600, "alt": "..." }`. Use the actual pixel dimensions. The generator emits responsive `amp-img` with the correct aspect ratio.
+- Set the real HTTPS `canonicalUrl` and `ga4MeasurementId` (`G-...`). Signup, login and favicon URLs may be HTTPS URLs or root-relative paths such as `/register`, `/login` and `/images/favicon.webp`.
+- Supply `logo`, `heroImage`, and optional section images as `{ "url": "/images/example.webp", "width": 1200, "height": 600, "alt": "..." }` or use an HTTPS URL. Use the actual pixel dimensions. The generator emits responsive `amp-img` with the correct aspect ratio.
 - Replace all provisional headings, descriptions, cards, and 3–5 FAQs with the Content Doc. FAQ JSON-LD comes from the same entries shown on the page.
 - Add the business name, canonical URL and logo URL to `organization`. Do not invent identity details.
 
