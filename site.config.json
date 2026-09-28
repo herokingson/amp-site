@@ -6,7 +6,7 @@
   "faviconUrl": "/images/favicon.webp",
   "logo": { "url": "/images/favicon.webp", "width": 600, "height": 600, "alt": "โลโก้ fox888" },
   "heroImage": { "url": "/images/favicon.webp", "width": 600, "height": 600, "alt": "fox888 ทางเข้า" },
-  "ga4MeasurementId": "",
+  "ga4MeasurementId": "G-0BFMYGLQZV",
   "signupUrl": "/register",
   "loginUrl": "/login",
   "organization": { "name": "fox888", "url": "https://amp-site-a27.pages.dev/", "logoUrl": "https://amp-site-a27.pages.dev/images/fox888.webp" },
