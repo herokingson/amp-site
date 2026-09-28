@@ -5,7 +5,7 @@
   "canonicalUrl": "https://amp-site-a27.pages.dev/",
   "faviconUrl": "/images/favicon.webp",
   "logo": { "url": "/images/favicon.webp", "width": 600, "height": 600, "alt": "โลโก้ fox888" },
-  "heroImage": { "url": "/images/favicon.webp", "width": 600, "height": 600, "alt": "fox888 ทางเข้า" },
+  "heroImage": { "url": "/images/fox888.webp", "width": 600, "height": 600, "alt": "fox888 ทางเข้า" },
   "ga4MeasurementId": "G-0BFMYGLQZV",
   "signupUrl": "/register",
   "loginUrl": "/login",
